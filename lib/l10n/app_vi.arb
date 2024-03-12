@@ -1,0 +1,8 @@
+{
+  "helloWorld": "Chào thế giớ",
+  "appName": "Soctrip",
+
+  "@endOfARB": {
+    "description": "This object should always be the last object in the ARB."
+  }
+}

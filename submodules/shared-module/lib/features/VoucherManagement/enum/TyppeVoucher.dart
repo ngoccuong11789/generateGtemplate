@@ -1,0 +1,3 @@
+enum TypeVoucher{
+  RESTAURANT,SHOP
+}

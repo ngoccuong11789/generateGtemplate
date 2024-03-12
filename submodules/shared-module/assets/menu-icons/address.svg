@@ -1,0 +1,12 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Atoms / Icon">
+<g id="Icon">
+<path d="M12.4 11.8C13.7255 11.8 14.8 10.7255 14.8 9.4C14.8 8.07452 13.7255 7 12.4 7C11.0745 7 10 8.07452 10 9.4C10 10.7255 11.0745 11.8 12.4 11.8Z" fill="#FEEE95"/>
+<path d="M12.4 19C15.6 15.8 18.8 12.9346 18.8 9.4C18.8 5.86538 15.9346 3 12.4 3C8.86538 3 6 5.86538 6 9.4C6 12.9346 9.2 15.8 12.4 19Z" fill="#FEEE95"/>
+</g>
+<g id="Icon_2">
+<path d="M10.4 10.8C11.7255 10.8 12.8 9.72548 12.8 8.4C12.8 7.07452 11.7255 6 10.4 6C9.07452 6 8 7.07452 8 8.4C8 9.72548 9.07452 10.8 10.4 10.8Z" stroke="#EAAA08" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.4 18C13.6 14.8 16.8 11.9346 16.8 8.4C16.8 4.86538 13.9346 2 10.4 2C6.86538 2 4 4.86538 4 8.4C4 11.9346 7.2 14.8 10.4 18Z" stroke="#EAAA08" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>

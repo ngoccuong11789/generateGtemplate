@@ -1,0 +1,15 @@
+[submodule "submodules/shared-module"]
+	path = submodules/shared-module
+	url = git@gitlab.tma.com.vn:soctrip-development/common/mobile/shared-module.git
+[submodule "submodules/soctrip-icon"]
+	path = submodules/soctrip-icon
+	url = git@gitlab.tma.com.vn:soctrip-development/common/mobile/soctrip-icon.git
+[submodule "submodules/bloom-filter"]
+	path = submodules/bloom-filter
+	url = git@gitlab.tma.com.vn:soctrip-development/common/mobile/bloom-filter.git
+[submodule "submodules/map-plugin"]
+	path = submodules/map-plugin
+	url = git@gitlab.tma.com.vn:soctrip-development/common/mobile/map-plugin.git
+[submodule "submodules/payment-gate"]
+	path = submodules/payment-gate
+	url = git@gitlab.tma.com.vn:soctrip-development/common/mobile/payment-gate.git
